@@ -1,0 +1,404 @@
+
+body{
+margin: 0;
+
+}
+
+
+.prewiew{
+   background-image: url(pictures/DXKg.gif);
+height: 640px;
+font-size: 25px;
+margin: 0;
+    padding-top: 50px;
+}
+.prewiew_text{
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+    color: #000000;
+margin-top: 100px;
+    font-family: 'Oswald', sans-serif;
+}
+#prewiew_text_2{
+    margin: 0;
+    padding: 0;
+}
+.prewiew_cursor{
+    
+    transform: rotate(-90deg);
+}
+.prewiew_2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1800px;
+    width: 50px;
+    height: 0px;
+    margin-left: 185px;
+    margin-top: 130px;
+    background-color: #ffffff;
+
+
+}
+.prewiew_cursor_link{
+    
+
+}
+.prewiew_cursor_link_img{
+   height: 80px;
+   border-radius: 500px;
+   margin: 0;
+   padding: 0;
+   
+}
+
+
+
+
+
+
+
+.servers{
+display: flex;
+margin-top: 20px;
+justify-content: center;
+
+}
+.servers_text{
+    font-family: 'Andika New Basic', sans-serif;
+   
+}
+.psiphon{
+   display: flex;
+   justify-content: center;
+   
+}
+.psiphon_img{
+width: 100px;
+height: 100px;
+margin-right: 20px;
+margin-left: 20px;
+margin-top: 50px ;
+align-items: center;
+}
+
+.psiphon_text{
+  width: 600px;
+}
+.psiphon_link{
+display: flex;
+justify-content: center;
+margin-top: 20px;
+}
+.psiphon_link_text{
+width: 170px;
+height: 35px;
+border-radius: 50px;
+background-color: red;
+line-height: 35px;
+display: flex;
+justify-content: center;
+text-decoration: none;
+color: #ffffff;
+font-family: 'Noto Sans', sans-serif;   
+}
+#psiphon_link_text_2{
+    margin-left: 10px;
+}
+
+.ssr{
+    display: flex;
+    justify-content: center;
+    
+}
+.ssr_img{
+    
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 50px ;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}  
+.ssr_text{
+    
+    width: 700px;
+  
+  margin-top: 50px;
+}
+.ssr_link{
+    display: flex;
+    justify-content: center;
+    }
+    .ssr_link_text{
+    margin-top: 20px;
+        width: 170px;
+    height: 35px;
+    border-radius: 50px;
+    background-color: #003C71;
+    line-height: 35px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Noto Sans', sans-serif;   
+    }
+    #ssr_link_text_2{
+        margin-left: 10px;
+    }
+    
+
+.v2rayng{
+  
+    display: flex;
+    justify-content: center;  
+}
+.v2rayng_img{
+    
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
+   margin-top: 75px;
+    align-items: center;
+}
+.v2rayng_text{
+   
+    width: 700px;
+    margin-top: 80px;
+    
+}
+.v2rayng_link{
+    display: flex;
+    justify-content: center;
+    }
+    .v2rayng_link_text{
+    width: 170px;
+    height: 35px;
+    border-radius: 50px;
+    background-color: #0fa81c;
+    line-height: 35px;
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Noto Sans', sans-serif;   
+    }
+    #v2rayng_link_text_2{
+        margin-left: 10px;
+    }
+
+.contact{
+  
+display: flex;
+justify-content: center;
+ width: auto;
+    
+}
+.contact_text{
+   
+margin-bottom: 50px ;
+font-family: 'Andika New Basic', sans-serif;
+margin-top: 50px;
+}
+.contact_img{
+    
+    margin-top: 50px;
+   
+   width: 900px;
+   margin: 0 auto;
+
+}
+.contact_logo{
+   border-radius: 150px;
+   height: 100px;
+ margin-left: 20px;
+   
+}
+.contact_logo:hover{
+   
+opacity: 0.7;
+transition: 1s;
+cursor: pointer;
+}
+
+.contact_link{
+   
+}
+.how_buy_text{
+    display: flex;
+    justify-content: center;
+}
+.section{
+
+}
+.section_div{
+
+}
+.section_div_img_qiwi{
+    display: flex;
+    justify-content: center;
+}
+.section_div_img_text{
+    display: flex;
+    justify-content: center;
+}
+
+.section_div_img{
+    display: flex;
+    justify-content: center;
+}
+
+.section_div_img_qiyato{
+    height: 100px;
+    
+
+
+}
+.price{
+display: flex;
+justify-content: center;
+margin-top: 20px;
+
+}
+.price_text{
+    font-family: 'Andika New Basic', sans-serif;
+}
+.price_buy{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 100%;
+    background-color: #3EA3EB;
+    padding-bottom: 15px;
+ align-items: center;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.price_buy_div{
+    margin-top: 30px;
+    border-radius: 10;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+#price_buy_id:hover{
+    background-color: #00B87F ;
+    border-radius: 50px;
+    transition: 0.7s;
+}
+.price_buy:hover{
+   
+  
+    
+}
+
+.treeteam{
+
+margin-top: 20px;
+
+}
+.treeteam_text{
+    font-family: 'Andika New Basic', sans-serif;
+    display: flex;
+  justify-content: center;
+
+
+}
+.treetime{
+  
+  
+  margin: 0 auto;
+}
+.treetime_text1{
+    width: 150px;
+    background-color: #C43A25;
+    border-radius: 50px;
+    height: 35px;
+    display: flex;
+   align-items: center;
+   line-height: 35px;
+    margin-top: 0;
+    font-family: 'Noto Sans', sans-serif;
+    margin-left: 109px;
+    
+}
+.treetime_link1{
+    text-decoration: none;
+    color: #DBE8F3;
+
+}
+.treetime_text1:hover{
+background-color: #D02A44;
+transition: 1s;
+}
+.treetime_link1:hover{
+    color: #DBE8F3;
+    transition: 1s;
+}
+.treetime_link2{
+    text-decoration: none;
+    color: #DBE8F3;
+}
+.treetime_text2{
+    width: 150px;
+    background-color: #BF197D ;
+    border-radius: 50px;
+    height: 35px;
+    display: flex;
+align-items: center;   
+   margin-top: 0;
+padding-left: 55px; 
+font-family: 'Noto Sans', sans-serif;  
+margin-left: 109px;
+ 
+}
+.treetime_text2:hover{
+    background-color: #4E8DF4;
+    transition: 1s;
+    }
+    .treetime_link3{
+        text-decoration: none;
+        color: #DBE8F3;
+    }
+    .treetime_text3{
+        width: 150px;
+        background-color: #F0680C;
+        border-radius: 50px;
+        height: 35px;
+        margin: 0;
+       display: flex;
+        align-items: center;   
+       margin-top: 0;
+       padding-left: 55px; 
+        font-family: 'Noto Sans', sans-serif;  
+        margin-left: 109px;
+ 
+    }
+    .treetime_text3:hover{
+        background-color:#9C44A9;
+        transition: 1s;
+        }
+        #tretime_link_id{
+            margin-left: 40px;
+        }
+        .footer{
+            background-color: #2196F3;
+            color: blanchedalmond;
+            display: flex;
+            justify-content: center;
+           text-align: center;
+            margin-top: 50px;
+            height: 90px;
+        
+        }
+        .footer_text{
+
+        }
+        
